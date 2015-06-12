@@ -8,26 +8,25 @@ Wanna to know more about coding challenges for the interview? Don't fight alone 
 ## Schedule
 Here is the putative schedule.  If you'd like to discuss your challenges and use cohort mates' brain, please clone the repo, make a change and pull request to add your name on the schedule. Thanks!
 
-2015   Help us and share your challenge!
------
-06/17  Genesh: T-shirt shopping
-06/24  Jessie: Company tracker
+### 2015  Help us and share your challenge!
+* 06/17  Genesh: T-shirt shopping
+* 06/24  Jessie: Company tracker
 
-07/01  Your spot! Let's help you!
-07/08  Your spot! Let's help you!
-07/15  Your spot! Let's help you!
-07/22  Your spot! Let's help you!
-07/29  Your spot! Let's help you!
+* 07/01  Your spot! Let's help you!
+* 07/08  Your spot! Let's help you!
+* 07/15  Your spot! Let's help you!
+* 07/22  Your spot! Let's help you!
+* 07/29  Your spot! Let's help you!
 
-08/05  Your spot! Let's help you!
+* 08/05  Your spot! Let's help you!
 
 ## Invited speakers and topics
 
-July: Michael: The Pathfinder
-July: Brittney: Conway's Game of Life? TBD
-      Jack: Shopping suggestions.
-      Genesh: Mailing labels/Student scores
-      Yumiko: Server monitor
+- July: Michael: The Pathfinder
+- July: Brittney: Conway's Game of Life? TBD
+-       Jack: Shopping suggestions.
+-       Genesh: Mailing labels/Student scores
+-       Yumiko: Server monitor
 
 ## Other challenges for you
 
@@ -35,7 +34,6 @@ Here are more known challenges, you are welcomed to add or take one, study and d
 
 - Even: String manipulation Web app
 - Victor: Reservation calendar
-
 
 ##For the speakers: How to talk about your challenge.
 
