@@ -1,3 +1,5 @@
+<img src="http://xjlin0.github.io/assets/imgs/frustrated.jpg"  alt="frustrated" width="100%"/>
+
 # Intro to Challenges DBC
 
 Hi folks, welcome to join us!, Every Wednesday 6pm@DBC-SF.
@@ -11,22 +13,20 @@ Here is the putative schedule.  If you'd like to discuss your challenges and use
 ### 2015  Help us and share your challenge!
 * 06/17  Genesh: T-shirt shopping
 * 06/24  Jessie: Company tracker
-
 * 07/01  Your spot! Let's help you!
 * 07/08  Your spot! Let's help you!
 * 07/15  Your spot! Let's help you!
 * 07/22  Your spot! Let's help you!
 * 07/29  Your spot! Let's help you!
-
 * 08/05  Your spot! Let's help you!
 
 ## Invited speakers and topics
 
-- July: Michael: The Pathfinder
-- July: Brittney: Conway's Game of Life? TBD
--       Jack: Shopping suggestions.
--       Genesh: Mailing labels/Student scores
--       Yumiko: Server monitor
+- Michael: The Pathfinder (July)
+- Brittney: Conway's Game of Life? (TBD, July)
+- Jack: Shopping suggestions.
+- Genesh: Mailing labels/Student scores
+- Yumiko: Server monitor
 
 ## Other challenges for you
 
