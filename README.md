@@ -35,6 +35,12 @@ Here are more known challenges, you are welcomed to add or take one, study and d
 
 - Evan: String manipulation decoupled app
 - Victor: Reservation calendar
+- [Project Happiness unpaid Intern](http://www.projecthappiness.org/social-media-internship/)
+- [Palantir 2011 Intern Projects](https://www.palantir.com/2012/02/software-dev-intern-projects-2011/)
+- [Quora Intern Projects](http://www.quora.com/careers/software_engineer_intern)
+- [Databricks SF Software Engineering internship projects](https://databricks.com/company/careers#posting-56fc1bb9-b258-4589-bca3-06006eabbf06)
+- [Fog Creek Intern in Software Development](http://www.fogcreek.com/jobs/summerintern/)
+- [OpenDaylight Internship Projects](https://wiki.opendaylight.org/view/InternProjects:Main)
 
 ##For the speakers: How to talk about your challenge.
 
