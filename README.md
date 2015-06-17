@@ -12,7 +12,7 @@ Here is the putative schedule.  If you'd like to discuss your challenges and use
 
 ### Help us and share your challenge!
 #### 2015
-* 06/17  Genesh: T-shirt shopping
+* 06/17  Genesh: [T-shirt shopping](https://github.com/ganeshkbalaji/EvernoteFrontEndChallenge)
 * 06/24  Jessie: Company tracker
 * 07/01  (Extra bonus fun week)
 * 07/08  Your spot! Let's help you!
