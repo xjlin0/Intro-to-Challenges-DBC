@@ -13,8 +13,8 @@ Here is the putative schedule.  If you'd like to discuss your challenges and use
 ### Help us and share your challenge!
 #### 2015
 * 06/17  Genesh: [T-shirt shopping](https://github.com/ganeshkbalaji/EvernoteFrontEndChallenge)
-* 06/24  Jessie: Company tracker
-* 07/01  (Extra bonus fun week)
+* 06/24  Michael: [The Pathfinder](https://github.com/avtomate/pather)
+* 07/01  (Cancelled for DBC hackathon)
 * 07/08  Your spot! Let's help you!
 * 07/15  Your spot! Let's help you!
 * 07/22  Your spot! Let's help you!
@@ -23,19 +23,19 @@ Here is the putative schedule.  If you'd like to discuss your challenges and use
 
 ## Invited speakers and topics
 
-- Michael: The Pathfinder (July)
+- Jessie: Company tracker
 - Brittney: Conway's Game of Life? (TBD, July)
 - Jack: Shopping suggestions.
 - Genesh: Mailing labels/Student scores
 - Yumiko: Server monitor
 - Cari: (TBD)
 - Tony: (TBD, August)
+- Jeremy: String manipulation decoupled app
 
 ## Other challenges for you
 
 Here are more known challenges, you are welcomed to add or take one, study and discuss with the group too, just add your name in the schedule, make a pull request and we will love to hear from you, really, take advantage of us! Email me (xjlin0 at gmail) for details.  Feel like to discuss a different project? Want to give me more idea or challenges? No problems, email me.
 
-- Evan: String manipulation decoupled app
 - Victor: Reservation calendar
 - [Project Happiness Intern](http://www.projecthappiness.org/social-media-internship/)
 - [Palantir 2011 Intern Projects](https://www.palantir.com/2012/02/software-dev-intern-projects-2011/)
