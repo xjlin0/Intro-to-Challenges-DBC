@@ -15,7 +15,7 @@ Here is the putative schedule.  If you'd like to discuss your challenges and use
 * 06/17  Genesh: [T-shirt shopping](https://github.com/ganeshkbalaji/EvernoteFrontEndChallenge)
 * 06/24  Michael: [The Pathfinder](https://github.com/avtomate/pather)
 * 07/01  (Cancelled for DBC hackathon)
-* 07/08  Your spot! Let's help you!
+* 07/08  Jeremy: [String manipulation decoupled app](https://github.com/evanhughes3/beezwax-exercise)
 * 07/15  Your spot! Let's help you!
 * 07/22  Your spot! Let's help you!
 * 07/29  Your spot! Let's help you!
