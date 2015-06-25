@@ -24,9 +24,7 @@ Here is the putative schedule.  If you'd like to discuss your challenges and use
 ## Invited speakers and topics
 
 - Jessie: Company tracker
-- Brittney: Conway's Game of Life? (TBD, July)
 - Jack: Shopping suggestions.
-- Genesh: Mailing labels/Student scores
 - Yumiko: Server monitor
 - Cari: (TBD)
 - Tony: (TBD, August)
@@ -36,6 +34,8 @@ Here is the putative schedule.  If you'd like to discuss your challenges and use
 
 Here are more known challenges, you are welcomed to add or take one, study and discuss with the group too, just add your name in the schedule, make a pull request and we will love to hear from you, really, take advantage of us! Email me (xjlin0 at gmail) for details.  Feel like to discuss a different project? Want to give me more idea or challenges? No problems, email me.
 
+- Genesh: Mailing labels/Student scores
+- Brittney: Conway's Game of Life
 - Victor: Reservation calendar
 - [Project Happiness Intern](http://www.projecthappiness.org/social-media-internship/)
 - [Palantir 2011 Intern Projects](https://www.palantir.com/2012/02/software-dev-intern-projects-2011/)
