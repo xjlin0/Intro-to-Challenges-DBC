@@ -4,25 +4,10 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=1024" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
-    <title>test for impress.js</title>
+    <title>Intro-to-Challenges-DBC brief</title>
 
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:regular,semibold,italic,italicsemibold|PT+Sans:400,700,400italic,700italic|PT+Serif:400,700,400italic,700italic" rel="stylesheet" />
 
-    <!--
-
-        Impress.js doesn't depend on any external stylesheets. It adds all of the styles it needs for the
-        presentation to work.
-
-        This style below contains styles only for demo presentation. Browse it to see how impress.js
-        classes are used to style presentation steps, or how to apply fallback styles, but I don't want
-        you to use them directly in your presentation.
-
-        Be creative, build your own. We don't really want all impress.js presentations to look the same,
-        do we?
-
-        When creating your own presentation get rid of this file. Start from scratch, it's fun!
-
-    -->
     <link href="https://cdn.rawgit.com/bartaz/impress.js/master/css/impress-demo.css" rel="stylesheet" />
 
 </head>
@@ -36,23 +21,6 @@
 
 <div id="impress">
 
-    <!--
-
-        Here is where interesting thing start to happen.
-
-        Each step of the presentation should be an element inside the `#impress` with a class name
-        of `step`. These step elements are positioned, rotated and scaled by impress.js, and
-        the 'camera' shows them on each step of the presentation.
-
-        Positioning information is passed through data attributes.
-
-        In the example below we only specify x and y position of the step element with `data-x="-1000"`
-        and `data-y="-1500"` attributes. This means that **the center** of the element (yes, the center)
-        will be positioned in point x = -1000px and y = -1500px of the presentation 'canvas'.
-
-        It will not be rotated or scaled.
-
-    -->
     <div id="bored" class="step slide" data-x="-1000" data-y="-1500">
         <q><strong>Intro to Challenges</strong></q>
         <q></q>
@@ -61,21 +29,6 @@
         <h5>20 minutes discussion, <b>every Wednesday 6pm@DBC-SF</b>, before Algorithm night’s pizza</h5>
     </div>
 
-    <!--
-
-        The `id` attribute of the step element is used to identify it in the URL, but it's optional.
-        If it is not defined, it will get a default value of `step-N` where N is a number of slide.
-
-        So in the example below it'll be `step-2`.
-
-        The hash part of the url when this step is active will be `#/step-2`.
-
-        You can also use `#step-2` in a link, to point directly to this particular step.
-
-        Please note, that while `#/step-2` (with slash) would also work in a link it's not recommended.
-        Using classic `id`-based links like `#step-2` makes these links usable also in fallback mode.
-
-    -->
     <div class="step slide" data-x="0" data-y="-1500">
         <q>Ready for coding projects or challenges in interviews?</q>
         <br/>
@@ -105,34 +58,10 @@
         <p class="footnote">* Company name or outcome are <strong>not</strong> required.</p>
     </div>
 
-    <!--
-
-        This is an example of step element being scaled.
-
-        Again, we use a `data-` attribute, this time it's `data-scale="4"`, so it means that this
-        element will be 4 times larger than the others.
-        From presentation and transitions point of view it means, that it will have to be scaled
-        down (4 times) to make it back to its correct size.
-
-    -->  <!--
-    <div id="title" class="step" data-x="0" data-y="0" data-scale="-10">
-        <span class="try">check the schedule here</span>
-        <h1>Intro-to-Challenges-DBC</h1>
-
-    </div>
-    -->
-    <!--
-
-        This element introduces rotation.
-
-        Notation shouldn't be a surprise. We use `data-rotate="90"` attribute, meaning that this
-        element should be rotated by 90 degrees clockwise.
-
-    -->
     <div id="its" class="step" data-x="850" data-y="3000" data-rotate="90" data-scale="5">
         <h1>check the schedule here</h1>
         <q><u>GitHub.com/<strong>xjlin0</strong>/Intro-to-Challenges-DBC</u></q>
-        <img src="http://xjlin0.github.io/assets/imgs/frustrated.jpg"  alt="repo-screenshot" width="80%"/>
+        <img src="https://raw.githubusercontent.com/xjlin0/Intro-to-Challenges-DBC/master/self_screenshot.jpg"  alt="repo-screenshot" width="80%"/>
     </div>
 
 <div class="hint">
@@ -144,48 +73,8 @@ if ("ontouchstart" in document.documentElement) {
 }
 </script>
 
-<!--
-
-    Last, but not least.
-
-    To make all described above really work, you need to include impress.js in the page.
-    I strongly encourage to minify it first.
-
-    In here I just include full source of the script to make it more readable.
-
-    You also need to call a `impress().init()` function to initialize impress.js presentation.
-    And you should do it in the end of your document. Not only because it's a good practice, but also
-    because it should be done when the whole document is ready.
-    Of course you can wrap it in any kind of "DOM ready" event, but I was too lazy to do so ;)
-
--->
 <script type="text/javascript" src="https://cdn.rawgit.com/bartaz/impress.js/master/js/impress.js"></script>
 <script>impress().init();</script>
-
-<!--
-
-    The `impress()` function also gives you access to the API that controls the presentation.
-
-    Just store the result of the call:
-
-        var api = impress();
-
-    and you will get three functions you can call:
-
-        `api.init()` - initializes the presentation,
-        `api.next()` - moves to next step of the presentation,
-        `api.prev()` - moves to previous step of the presentation,
-        `api.goto( idx | id | element, [duration] )` - moves the presentation to the step given by its index number
-                id or the DOM element; second parameter can be used to define duration of the transition in ms,
-                but it's optional - if not provided default transition duration for the presentation will be used.
-
-    You can also simply call `impress()` again to get the API, so `impress().next()` is also allowed.
-    Don't worry, it wont initialize the presentation again.
-
-    For some example uses of this API check the last part of the source of impress.js where the API
-    is used in event handlers.
-
--->
 
 </body>
 </html>
