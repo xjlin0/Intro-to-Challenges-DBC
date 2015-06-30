@@ -44,6 +44,7 @@ Here are more known challenges, you are welcomed to add or take one, study and d
 - [OpenDaylight Internship Projects](https://wiki.opendaylight.org/view/InternProjects:Main)
 - Khan Academy Internships by: [Elizabeth](http://www.elizabethylin.com/khan/), [Kasra](http://www.kasrak.com/writing/khan-internship/), [Jamie](http://jamie-wong.com/2012/08/22/what-i-did-at-khan-academy/), [Dylan](http://www.dylanv.org/2012/09/14/the-khan-academy-internship-experience/), [Ben](http://benalpert.com/2012/08/24/what-i-did-at-khan-academy-2012.html), [David](http://david-hu.com/2011/11/02/how-khan-academy-is-using-machine-learning-to-assess-student-mastery.html), and [an interviewer's angle](http://ejohn.org/blog/project-based-interviews/)
 - [Some other challenges](http://programmers.stackexchange.com/questions/756/where-can-i-find-programming-puzzles-and-challenges/764#764)
+- [Datastax intern](http://www.datastax.com/dev/blog/32-node-raspberry-pi-cassandra-cluster)
 
 ##For the speakers: How to talk about your challenge.
 
