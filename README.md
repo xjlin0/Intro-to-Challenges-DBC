@@ -17,8 +17,8 @@ Here is the putative schedule.  If you'd like to discuss your challenges and use
 * 07/01  (Cancelled for DBC hackathon)
 * 07/08  Jeremy: [String manipulation decoupled app](https://github.com/evanhughes3/beezwax-exercise)
 * 07/15  Raghu: [Trello Tracker](https://github.com/e47my54uc3/trello_tracker)
-* 07/22  Kelsey: TBD (Cbjective-C)
-* 07/29  Your spot! Let's help you!
+* 07/22  Kelsey: Circle of chairs (Objective-C)
+* 07/29  Mikhail: Maze
 * 08/05  Your spot! Let's help you!
 
 ## Invited speakers and topics
