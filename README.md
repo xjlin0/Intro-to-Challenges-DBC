@@ -20,7 +20,9 @@ Here is the putative schedule.  If you'd like to discuss your challenges and use
 * 07/22  Kelsey: [Circle of chairs](https://docs.google.com/presentation/d/1OAUxxT0NfSvm7k8MRrP85cH8e0FlAyICK1jUmR1Y49U/edit?usp=sharing)
 * 07/29  Jack: [Shopping recommendation](https://github.com/xjlin0/RSMiniProject)
 * 08/05  Jack: [Box rotation](https://github.com/xjlin0/RailsCodingChallenge)
-* 08/12  Curtis/Andrew:
+* 08/12  Curtis/Andrew: Linkedin experience
+* 08/19  Raghu
+* 08/26  John
 
 ## Invited speakers and topics
 
@@ -33,6 +35,7 @@ Here is the putative schedule.  If you'd like to discuss your challenges and use
 
 Here are more known challenges, you are welcomed to add or take one, study and discuss with the group too, just add your name in the schedule, make a pull request and we will love to hear from you, really, take advantage of us! Email me (xjlin0 at gmail) for details.  Feel like to discuss a different project? Want to give me more idea or challenges? No problems, email me.
 
+- Yumiko: server monitor/tic-tac-toe2
 - Genesh: Mailing labels/Student scores
 - Brittney: [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life)
 - Victor: Reservation calendar
