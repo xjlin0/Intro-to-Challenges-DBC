@@ -16,18 +16,18 @@ Here is the putative schedule.  If you'd like to discuss your challenges and use
 * 06/24  Michael: [The Pathfinder](https://github.com/avtomate/pather)
 * 07/01  (Cancelled for DBC hackathon)
 * 07/08  Jeremy: [String manipulation decoupled app](https://github.com/evanhughes3/beezwax-exercise)
-* 07/15  Raghu: [Trello Tracker](https://github.com/e47my54uc3/trello_tracker)
+* 07/15  Raghu: [Trello Tracker](https://github.com/raghureddyram/trello_tracker)
 * 07/22  Kelsey: [Circle of chairs](https://docs.google.com/presentation/d/1OAUxxT0NfSvm7k8MRrP85cH8e0FlAyICK1jUmR1Y49U/edit?usp=sharing)
 * 07/29  Jack: [Shopping recommendation](https://github.com/xjlin0/RSMiniProject)
 * 08/05  Jack: [Box rotation](https://github.com/xjlin0/RailsCodingChallenge)
 * 08/12  Curtis/Andrew: Linkedin experience
-* 08/19  Raghu
+* 08/19  Raghu: [Twitter streams](https://github.com/raghureddyram/streaming_twitter)
 * 08/26  John
 
 ## Invited speakers and topics
 
 - Jessie: Company tracker
-- Jack: Connect4.
+- Jack: Connect4/coupon usage/friends recommendation
 - Cari: (TBD, September)
 - Tony: (TBD, August)
 
@@ -39,7 +39,7 @@ Here are more known challenges, you are welcomed to add or take one, study and d
 - Genesh: Mailing labels/Student scores
 - Brittney: [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life)
 - Victor: Reservation calendar
-- Mikhail: Maze
+- Mikhail: [Maze](https://github.com/icstunna/ruby_back_end_maze_solver)/shift scheduler
 - [Project Happiness Intern](http://www.projecthappiness.org/social-media-internship/)
 - [Palantir 2011 Intern Projects](https://www.palantir.com/2012/02/software-dev-intern-projects-2011/)
 - [Quora Intern Projects](http://www.quora.com/careers/software_engineer_intern)
