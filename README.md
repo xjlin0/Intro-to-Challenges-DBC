@@ -22,7 +22,7 @@ Here is the putative schedule.  If you'd like to discuss your challenges and use
 * 08/05  Jack: [Box rotation](https://github.com/xjlin0/RailsCodingChallenge)
 * 08/12  Curtis/Andrew: Linkedin experience
 * 08/19  Jack: Remote tech challenge
-* 08/26  John
+* 08/26  John: [Schema dive](http://stackoverflow.com/questions/12145099)
 
 ## Invited speakers and topics
 - Raghu: [Twitter streams](https://github.com/raghureddyram/streaming_twitter)
