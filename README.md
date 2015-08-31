@@ -21,7 +21,7 @@ Here is the putative schedule.  If you'd like to discuss your challenges and use
 * 07/29  Jack: [Shopping recommendation](https://github.com/xjlin0/RSMiniProject)
 * 08/05  Jack: [Box rotation](https://github.com/xjlin0/RailsCodingChallenge)
 * 08/12  Curtis/Andrew: Linkedin experience
-* 08/19  Jack: Remote tech challenge
+* 08/19  Jack: [Remote tech challenge](http://stackoverflow.com/questions/3609671)
 * 08/26  John: [Schema dive](http://stackoverflow.com/questions/12145099)
 
 ## Invited speakers and topics
