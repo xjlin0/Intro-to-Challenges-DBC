@@ -35,7 +35,8 @@ Here is the putative schedule.  If you'd like to discuss your challenges and use
 
 Here are more known challenges, you are welcomed to add or take one, study and discuss with the group too, just add your name in the schedule, make a pull request and we will love to hear from you, really, take advantage of us! Email me (xjlin0 at gmail) for details.  Feel like to discuss a different project? Want to give me more idea or challenges? No problems, email me.
 
-- Yumiko: server monitor/tic-tac-toe2
+- Diana: Rails Carousel
+- Yumiko: server monitor/tic-tac-toe2/dictionary
 - Genesh: Mailing labels/Student scores
 - Brittney: [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life)
 - Victor: Reservation calendar
